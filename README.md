@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ![InnerVerse - A lyric journal website](https://lyrics.oliverdave.dev/)<br>🌱 I’m currently learning React.JS<br>💬 Ask me about Music<br>
+🔭 I’m currently working on [InnerVerse - A lyric journal website](https://lyrics.oliverdave.dev/)<br>🌱 I’m currently learning React.JS<br>💬 Ask me about Music<br>
 
 
 ## 🌐 Socials:
