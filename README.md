@@ -79,11 +79,14 @@ This very portfolio — a content-driven site built with Next.js, MDX project pa
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [Jetflix](https://github.com/pdaveoli/jetflix)
-Netflix — but without the ability to watch shows. A browsing and discovery UI for movies and TV, built as a front-end exploration project.
+### 🎬 [Finlays XYZ](https://finlays.xyz)
+Portfolio website for a client that has a working admin dashboard and dynamic loading content.
+
+**Live:** [finlays.xyz](https://finlays.xyz)
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
